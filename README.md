@@ -5,7 +5,6 @@ Python 3.8.5
 
 ## structure
 ```
-.
 ├── main.py
 ├── data
    └── *.xlsx
